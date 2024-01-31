@@ -5,6 +5,7 @@ I'm a full-stack developer, and an experienced leader and collaborator.  I speci
 In my most recent developer experience, I participated in Agile development sprints and was able to quickly implement fixes and user requested features.  My willingness dive into the codebase, research information I didn't know, and ask questions when blocked, helped my team progress through user stories and deliver completed and tested code for production.
 
 I'm always on the lookout for challenges and take great joy in creating a pathway forward to do the most good for the most people.  You can check out a sample portfolio at https://chris-frey.vercel.app
+
 You can also preview an app I'm currently working on at https://www.promptuapp.com
 
 Some of my technical skillset:
