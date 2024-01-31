@@ -1,6 +1,11 @@
 ### Hi, I'm Chris 👋
 
-My journey to software development started when I was a child....yada yada....and hasn't ended yet!  I love to do things that make a positive impact on people's lives, and I love to develop solid software that works quickly and efficiently.
+I'm a full-stack developer, and an experienced leader and collaborator.  I specialize in Ruby on rails, JavaScript, and React.  I'm also currently expanding my skillset by learning SQL and Python.
+
+In my most recent developer experience, I participated in Agile development sprints and was able to quickly implement fixes and user requested features.  My willingness dive into the codebase, research information I didn't know, and ask questions when blocked, helped my team progress through user stories and deliver completed and tested code for production.
+
+I'm always on the lookout for challenges and take great joy in creating a pathway forward to do the most good for the most people.  You can check out a sample portfolio at https://chris-frey.vercel.app
+You can also preview an app I'm currently working on at https://www.promptuapp.com
 
 Some of my technical skillset:
 
