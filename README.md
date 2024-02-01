@@ -10,7 +10,7 @@ You can also preview an app I'm currently working on at https://www.promptuapp.c
 
 Some of my technical skillset:
 
-[![Some of My Technical Skills](https://skillicons.dev/icons?i=js,react,html,css,ruby,rails,postgres,vite,vscode)](https://skillicons.dev)
+[![Some of My Technical Skills](https://skillicons.dev/icons?i=ruby,rails,js,react,html,css,postgres,vite)](https://skillicons.dev)
 
 I bring a lot to the table, no matter what I'm working on. If you'd like to connect, let's do it!:
 
